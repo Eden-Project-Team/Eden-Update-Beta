@@ -11,10 +11,12 @@ Changelog
   - Removed Modules
     - Removed 3 Sets of modules that are avalible in other avalible mod packs.
   - Adjusted DB IDs
+    - Auth_3D IDs have been adjusted to avoid conflicts with other mods
+    - OBJ IDs have been updated to avoid conflicts with other mods 
 
 - Items that have not beed changed
   - Texture IDs
-    - Waiting on Potential Updates
+    - Waiting on potential updates before updating 
   - MOT IDs
     - Uncertain  
 
