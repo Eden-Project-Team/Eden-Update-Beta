@@ -21,7 +21,7 @@ Changelog
   - Texture IDs
     - Waiting on potential updates before updating 
   - MOT IDs
-    - Uncertain  
+    - Uncertain - Planned
 
 - Items that will not be changed
   - PV_DB IDs
