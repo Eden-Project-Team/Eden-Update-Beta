@@ -18,6 +18,8 @@ Changelog
     - OBJ IDs have been updated to avoid conflicts with other mods 
 
 - Items that have not beed changed
+  - Kagaru Daze Collision bug
+    - Being fixed 
   - Texture IDs
     - Waiting on potential updates before updating 
   - MOT IDs
