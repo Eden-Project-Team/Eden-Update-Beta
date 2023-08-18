@@ -7,6 +7,9 @@ Changelog
 
 - Items that have been changed
   - Added 3 Covers
+    - pv_046_soraru
+    - pv_047_soraru_lon
+    - pv_092_soraru
   - Added 1 Module
   - Removed Modules
     - Removed 3 Sets of modules that are avalible in other avalible mod packs.
