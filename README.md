@@ -25,6 +25,7 @@ Changelog
 	- IA
 	- ONE
   - Added Monokuma Miku's missing model files
+  - Changed prefix to mod
   - Removed eden39 prefix from loading
   - Removed unused DB entries
 	- obj_db
