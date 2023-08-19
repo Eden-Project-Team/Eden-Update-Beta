@@ -34,7 +34,7 @@ Changelog
 	- mot_db
   
 
-- Items that have not beed changed
+- Items that have not been changed
   - Texture IDs
     - Waiting on potential updates before updating 
   - MOT IDs
