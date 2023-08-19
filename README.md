@@ -1,7 +1,7 @@
 # Eden-Update-Beta
 Beta of Eden Project Updates
 
-Currect Version: 4.3.1 Beta 001
+Currect Version: 4.3.1 Beta 002
 
 Changelog
 

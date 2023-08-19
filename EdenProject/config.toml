@@ -1,7 +1,7 @@
 enabled = true
 name = "Eden Project"
-description = "Eden Project - v4.3.1 Beta 001"
-version = "4.3.1-B001"
+description = "Eden Project - v4.3.1 Beta 002"
+version = "4.3.1-B002"
 date = "18.08.2023"
 author = "Eden Project Team"
 include = ["."]
