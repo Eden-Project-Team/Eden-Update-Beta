@@ -1,7 +1,7 @@
 # Eden-Update-Beta
 Beta of Eden Project Updates
 
-Currect Version: 4.3.1 Beta 002
+Currect Version: 4.3.1 Beta 003
 
 Changelog
 
@@ -32,6 +32,7 @@ Changelog
 	- spr_db
 	- aet_db
 	- mot_db
+  - Added Monokuma Miku's skin_param files
   
 
 - Items that have not been changed
