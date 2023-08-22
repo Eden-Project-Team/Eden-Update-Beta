@@ -36,7 +36,7 @@ Changelog
   - Added Monokuma Miku's skin_param files
   - Fixed up Melt -F2nd edition-'s collision file
   - Removed a module that was forgotten
-  - Changed all other language module names to their English names as placeholders until translations are made (both Chinese ones use Japanese)
+  - Changed all other language module names that had "BLANK" to their English names as placeholders until translations are made (both Chinese ones use Japanese)
   - Fixed a few shadow texture errors at Melt -F2nd edition-'s concert stage
   
 
