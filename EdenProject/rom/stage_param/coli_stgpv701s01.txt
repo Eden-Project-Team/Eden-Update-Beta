@@ -1,0 +1,17 @@
+# This file was generated automatically. DO NOT EDIT.
+object.0.friction=1.000000
+object.0.pos.0.x=0.000000
+object.0.pos.0.y=0.000000
+object.0.pos.0.z=0.000000
+object.0.pos.1.x=0.000000
+object.0.pos.1.y=0.500000
+object.0.pos.1.z=-0.500000
+object.0.radius=0.100000
+object.0.type=5
+object.length=1
+ring.out_height=0.000000
+ring.rect.height=2.000000
+ring.rect.width=2.000000
+ring.rect.x=-1.000000
+ring.rect.y=-1.000000
+ring.ring_height=0.500000

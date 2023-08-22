@@ -1,7 +1,7 @@
 # Eden-Update-Beta
 Beta of Eden Project Updates
 
-Currect Version: 4.3.1 Beta 003
+Currect Version: 4.3.1 Beta 004
 
 Changelog
 
@@ -16,6 +16,7 @@ Changelog
   - Adjusted DB IDs
     - Auth_3D IDs have been adjusted to avoid conflicts with other mods
     - OBJ IDs have been updated to avoid conflicts with other mods
+	- MOT IDs have been updated to avoid conflicts with other mods
   - Fixed collision bugs
 	- Halloween Ghost and Christmas Pumpkin
 	- Dance Robot Dance
@@ -33,13 +34,15 @@ Changelog
 	- aet_db
 	- mot_db
   - Added Monokuma Miku's skin_param files
+  - Fixed up Melt -F2nd edition-'s collision file
+  - Removed a module that was forgotten
+  - Changed all other language module names to their English names as placeholders until translations are made (both Chinese ones use Japanese)
+  - Fixed a few shadow texture errors at Melt -F2nd edition-'s concert stage
   
 
 - Items that have not been changed
   - Texture IDs
     - Waiting on potential updates before updating 
-  - MOT IDs
-    - Uncertain - Planned
 
 - Items that will not be changed
   - PV_DB IDs
