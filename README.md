@@ -38,6 +38,7 @@ Changelog
   - Removed a module that was forgotten
   - Changed all other language module names that had "BLANK" to their English names as placeholders until translations are made (both Chinese ones use Japanese)
   - Fixed a few shadow texture errors at Melt -F2nd edition-'s concert stage
+  - Made adjustments to Because You're Here's and Law-evading Rock's charts
   
 
 - Items that have not been changed
