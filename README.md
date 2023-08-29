@@ -1,7 +1,7 @@
 # Eden-Update-Beta
 Beta of Eden Project Updates
 
-Currect Version: 4.3.1 Beta 005
+Currect Version: 4.3.1 Beta 006
 
 Changelog
 
@@ -39,6 +39,8 @@ Changelog
   - Changed all other language module names that had "BLANK" to their English names as placeholders until translations are made (both Chinese ones use Japanese)
   - Fixed a few shadow texture errors at Melt -F2nd edition-'s concert stage
   - Made adjustments to Because You're Here's and Law-evading Rock's charts
+  - Added forgotten audio files for 3 covers
+  - Fixed a bug with "MEIKO" not showing up under Rolling Girl's song options
   
 
 - Items that have not been changed
