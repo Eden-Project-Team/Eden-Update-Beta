@@ -1,7 +1,7 @@
 # Eden-Update-Beta
 Beta of Eden Project Updates
 
-Currect Version: 4.3.1 Beta 006
+Currect Version: 4.3.1 Beta 007
 
 Changelog
 
@@ -41,6 +41,7 @@ Changelog
   - Made adjustments to Because You're Here's and Law-evading Rock's charts
   - Added forgotten audio files for 3 covers
   - Fixed a bug with "MEIKO" not showing up under Rolling Girl's song options
+  - Fixed a mistake in the updated pv_db. Accidentally left the new file names for a future update.
   
 
 - Items that have not been changed
